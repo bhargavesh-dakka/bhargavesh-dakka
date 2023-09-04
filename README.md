@@ -1,17 +1,78 @@
-<h1 align="center">Hi 👋, I'm Bhargavesh Dakka</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://www.github.com/bhargavesh-dakka](https://www.github.com/bhargavesh-dakka)
-
-- 💬 Ask me about **Data Science, Data Analytics, Machine Learning, Python and SQL**
-
-- 📫 How to reach me **bhargaveshdakka@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/bhargaveshdakka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhargaveshdakka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/21695a3202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21695a3202" height="30" width="40" /></a>
+<h1> Hello Fellow < Developers/ >! 🙋‍♂️
+<p align='center'>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI/ML+enthusiast;A+keen+AI+Undergraduate+researcher" /></a>
+</p>
+    
+  
+   <a href="https://www.linkedin.com/in/bhargavesh-dakka/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+  <a href="https://www.kaggle.com/bhargaveshdakka" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+
+  </a>  
+ <a href="https://www.hackerrank.com/21695a3202" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a> <a href="https://leetcode.com/bhargavesh_dakka/" target="_blank">
+    <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+  </a>
+
+- 👋 Hi, I’m Bhargavesh Dakka
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style = "height:27px; width:80px ">
+  </a>
+
+   <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style = "height:27px; width:90px ">
+  </a>
+   <a href="https://keras.io/" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" >
+  </a>
+
+   <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" style = "height:27px; width:90px ">
+  </a>
+
+   <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+   <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" style = "height:27px; width:90px ">
+  </a>
+
+   <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img alt="Tableau" src="https://th.bing.com/th/id/OIP.k11NKB6vQbDyHstjaXOJygHaCk?pid=ImgDet&rs=1" style = "height:27px; width:80px ">
+  </a>
+
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
+    <img alt="PowerBi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img alt="Tableau" src="https://i0.wp.com/www.startupof.me/wp-content/uploads/2020/09/Tableau-logo.jpg?fit=800%2C800&ssl=1" style = "height:27px; width:70px ">
+  </a>
+ 
+</details>
+
+<br/>
+
+#
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhargavesh-dakka&theme=dracula)](https://git.io/streak-stats)
+
+<br/>
