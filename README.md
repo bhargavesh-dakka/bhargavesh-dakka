@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI/ML+enthusiast;A+keen+AI+Undergraduate+researcher" /></a>
 </p>
   <a href="#" target="_blank">
-    <img alt="Profile Count" src = "https://komarev.com/ghpvc/?username=bhargavesh-dakka&abbreviated=true" style="height:50px;">
+    <img alt="Profile Count" src = "https://komarev.com/ghpvc/?username=bhargavesh-dakka&abbreviated=true" style="height:30px;">
   </a> 
 
   
