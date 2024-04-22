@@ -58,9 +58,7 @@
    <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img alt="Tableau" src="https://th.bing.com/th/id/OIP.k11NKB6vQbDyHstjaXOJygHaCk?pid=ImgDet&rs=1" style = "height:27px; width:80px ">
-  </a>
+ 
 
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
     <img alt="PowerBi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
